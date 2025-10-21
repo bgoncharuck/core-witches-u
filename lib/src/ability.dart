@@ -1,15 +1,5 @@
 import 'dart:convert';
 
-enum AbilityType {
-  usage,
-  whilePlayed,
-  darkness,
-  chaos,
-  ignoreChaos,
-  protect,
-  freePurchase,
-}
-
 class Ability {
   const Ability({
     required this.id,
@@ -21,9 +11,9 @@ class Ability {
   factory Ability.fromJson(Map<String, dynamic> json) {
     return Ability(
       id: json['id'] as String,
-      type: AbilityType.values.byName(json['type'] as String),
+      type: json['type'] as String,
       name: json['name'] as String,
-      value: json['value'] as int,
+      value: json['value'] as int? ?? 0,
     );
   }
 
@@ -36,7 +26,7 @@ class Ability {
   Map<String, dynamic> toJson() {
     return {
       'id': id,
-      'type': type.name,
+      'type': type,
       'name': name,
       'value': value,
     };
@@ -47,7 +37,7 @@ class Ability {
   }
 
   final String id;
-  final AbilityType type;
+  final String type;
   final String name;
-  final int value;
+  final int? value;
 }

@@ -9,12 +9,11 @@
   },
   "author": "bgoncharuck",
   "license": "LGPL-2.1-or-later",
-  "main": "index.js",
+  "main": "lib/index.js",
   "exports": {
-    ".": "./index.js"
+    ".": "./lib/index.js"
   },
   "files": [
-    "index.js",
     "lib/"
   ],
   "scripts": {
