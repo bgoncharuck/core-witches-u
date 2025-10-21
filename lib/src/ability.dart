@@ -14,6 +14,7 @@ class Ability {
   const Ability({
     required this.id,
     required this.type,
+    required this.name,
     required this.value,
   });
 
@@ -21,6 +22,7 @@ class Ability {
     return Ability(
       id: json['id'] as String,
       type: AbilityType.values.byName(json['type'] as String),
+      name: json['name'] as String,
       value: json['value'] as int,
     );
   }
@@ -35,6 +37,7 @@ class Ability {
     return {
       'id': id,
       'type': type.name,
+      'name': name,
       'value': value,
     };
   }
@@ -45,5 +48,6 @@ class Ability {
 
   final String id;
   final AbilityType type;
+  final String name;
   final int value;
 }
