@@ -2,11 +2,37 @@
     {
       "id": 550,
       "type": "usage",
-      "name": "Emptiness"
+      "name": "Emptiness",
+      "value": 0
     },
     {
       "id": 551,
       "type": "usage",
       "name": "GainIntention"
+    },
+    {
+      "id": 552,
+      "type": "usage",
+      "name": "GainInfluence"
+    },
+    {
+      "id": 553,
+      "type": "usage",
+      "name": "GainEnlightenment"
+    },
+    {
+      "id": 554,
+      "type": "usage",
+      "name": "RemoveOpponentIntention"
+    },
+    {
+      "id": 555,
+      "type": "usage",
+      "name": "RemoveOpponentInfluence"
+    },
+    {
+      "id": 556,
+      "type": "usage",
+      "name": "RemoveOpponentEnlightenment"
     }
 ]
