@@ -42,7 +42,17 @@
     },
     {
       "id": "558",
-      "type": "protection",
-      "name": "ChaosProtection"
+      "type": "immunity",
+      "name": "ImmunityChaos"
+    },
+    {
+      "id": "559",
+      "type": "grimoire",
+      "name": "BuyAnyCard"
+    },
+    {
+      "id": "560",
+      "type": "grimoire",
+      "name": "BuyRitualCard"
     }
 ]
