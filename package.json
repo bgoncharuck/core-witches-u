@@ -1,0 +1,24 @@
+{
+  "name": "core-witches-u",
+  "version": "0.1.0",
+  "description": "Dart-NodeJS common library",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bgoncharuck/core-witches-u.git"
+  },
+  "author": "bgoncharuck",
+  "license": "LGPL-2.1-or-later",
+  "main": "index.js",
+  "exports": {
+    ".": "./index.js"
+  },
+  "files": [
+    "index.js",
+    "lib/"
+  ],
+  "scripts": {
+    "build": "echo 'No build step required (Dart sources only)'",
+    "test": "echo 'No Node tests yet'"
+  }
+}

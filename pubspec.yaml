@@ -1,0 +1,15 @@
+name: core_witches_u
+description: Dart-NodeJS common library
+version: 0.1.0
+repository: https://github.com/bgoncharuck/core-witches-u
+homepage: https://github.com/bgoncharuck/core-witches-u
+publish_to: none
+
+environment:
+  sdk: ^3.9.2
+
+dependencies:
+
+dev_dependencies:
+  flutter_lints: ^6.0.0
+  very_good_analysis: ^10.0.0
