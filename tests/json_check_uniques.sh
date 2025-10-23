@@ -17,13 +17,20 @@ find "$ASSETS_DIR" -type f -name "*.json" | while read file; do
     ERROR=1
   else
     echo "$FILE_NAME - correct"
-    echo ""
   fi
+
+  types=$(jq -r '.[].type' "$file" | sort | uniq)
+  if [ ! -z "$types" ]; then
+    echo "$FILE_NAME - types:"
+    echo "$types"
+  fi
+
+  echo ""
 done
 
 if [ $ERROR -eq 1 ]; then
-  echo "Duplicate IDs"
+  echo "Duplicate IDs detected."
   exit 1
 else
-  echo "All IDs are unique in all JSON files"
+  echo "All IDs are unique in all JSON files."
 fi
