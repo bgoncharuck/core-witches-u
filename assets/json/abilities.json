@@ -47,12 +47,37 @@
     },
     {
       "id": "559",
-      "type": "grimoire",
+      "type": "grimoireBuy",
       "name": "BuyAnyCard"
     },
     {
       "id": "560",
-      "type": "grimoire",
+      "type": "grimoireBuy",
       "name": "BuyRitualCard"
+    },
+    {
+      "id": "561",
+      "type": "while",
+      "name": "ProtectOtherDivines"
+    },
+    {
+      "id": "562",
+      "type": "while",
+      "name": "IfAnyCardPlacedIntoFuture_GainIntention"
+    }, 
+    {
+      "id": "563",
+      "type": "grimoireReplace",
+      "name": "ReplaceAnyCard"
+    },
+    {
+      "id": "564",
+      "type": "usage",
+      "name": "MoveDivineFromFutureToUnmanifested"
+    },
+    {
+      "id": "566",
+      "type": "while",
+      "name": "IfAnyCardPlacedIntoFuture_GainInfluence"
     }
 ]
