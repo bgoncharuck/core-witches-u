@@ -79,5 +79,15 @@
       "id": "566",
       "type": "while",
       "name": "IfAnyCardPlacedIntoFuture_GainInfluence"
+    },
+    {
+      "id": "567",
+      "type": "while",
+      "name": "IfAnyDeityActivated_GainIntention"
+    },
+    {
+      "id": "568",
+      "type": "while",
+      "name": "IfAnyDeityActivated_GainInfluence"
     }
 ]
