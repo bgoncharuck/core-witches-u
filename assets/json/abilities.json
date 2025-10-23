@@ -114,5 +114,30 @@
       "id": "573",
       "type": "while",
       "name": "IfDeityRemovedWithChaos_GainIntention_GainInfluence_GainEnlightenment"
+    },
+    {
+      "id": "574",
+      "type": "usage",
+      "name": "MoveAnyCardFromUnmanifestedToFuture"
+    },
+    {
+      "id": "575",
+      "type": "usage",
+      "name": "MoveAnyCardFromFutureToManifested"
+    },
+    {
+      "id": "576",
+      "type": "usage",
+      "name": "MoveAnyCard_Manifest"
+    },
+    {
+      "id": "577",
+      "type": "destroy",
+      "name": "DestroyAnyCard"
+    },
+    {
+      "id": "578",
+      "type": "opponentCreation",
+      "name": "CreateOpponent_Base:Emptiness"
     }
 ]
