@@ -89,5 +89,30 @@
       "id": "568",
       "type": "while",
       "name": "IfAnyDeityActivated_GainInfluence"
+    },
+    {
+      "id": "569",
+      "type": "creation",
+      "name": "Create_Snakes:Dragon"
+    },
+    {
+      "id": "570",
+      "type": "while",
+      "name": "IfDeityRemovedWithChaos_GainIntention"
+    },
+    {
+      "id": "571",
+      "type": "while",
+      "name": "IfDeityRemovedWithChaos_GainInfluence"
+    },
+    {
+      "id": "572",
+      "type": "while",
+      "name": "IfDeityRemovedWithChaos_GainEnlightenment"
+    },
+    {
+      "id": "573",
+      "type": "while",
+      "name": "IfDeityRemovedWithChaos_GainIntention_GainInfluence_GainEnlightenment"
     }
 ]
