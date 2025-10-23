@@ -22,17 +22,17 @@
     },
     {
       "id": "554",
-      "type": "usage",
+      "type": "opponentUsage",
       "name": "RemoveOpponentIntention"
     },
     {
       "id": "555",
-      "type": "usage",
+      "type": "opponentUsage",
       "name": "RemoveOpponentInfluence"
     },
     {
       "id": "556",
-      "type": "usage",
+      "type": "opponentUsage",
       "name": "RemoveOpponentEnlightenment"
     },
     {
@@ -139,5 +139,15 @@
       "id": "578",
       "type": "opponentCreation",
       "name": "CreateOpponent_Base:Emptiness"
+    },
+    {
+      "id": "579",
+      "type": "opponentUsage",
+      "name": "OpponentMoveAnyCardFromManifestedToFuture"
+    },
+    {
+      "id": "580",
+      "type": "usage",
+      "name": "ConvertIntentionToEnlightenment"
     }
 ]
