@@ -1,0 +1,44 @@
+  {
+    "id": "",
+    "deck": "",
+    "name": "",
+    "type": "",
+    "influence": 0,
+    "cost": 0,
+    "firstAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "secondAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "thirdAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "commonDeckAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "uncommonDeckAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "rareDeckAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    }
+  }
