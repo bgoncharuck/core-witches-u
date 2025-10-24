@@ -10,7 +10,7 @@ class Ability {
 
   factory Ability.fromJson(Map<String, dynamic> json) {
     return Ability(
-      id: json['id'] as String,
+      id: json['id'] as int,
       type: json['type'] as String,
       name: json['name'] as String,
       value: json['value'] as int? ?? 0,
@@ -36,7 +36,7 @@ class Ability {
     return json.encode(toJson());
   }
 
-  final String id;
+  final int id;
   final String type;
   final String name;
   final int? value;
