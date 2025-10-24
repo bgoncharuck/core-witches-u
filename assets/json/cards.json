@@ -1,0 +1,46 @@
+[
+  {
+    "id": 11000,
+    "deck": "Trickster",
+    "name": "Fool",
+    "type": "Deity",
+    "influence": 9,
+    "cost": 7,
+    "firstAbility": {
+      "id": "550",
+      "type": "usage",
+      "name": "GainIntention",
+      "value": 1
+    },
+    "secondAbility": {
+      "id": "551",
+      "type": "usage",
+      "name": "GainInfluence",
+      "value": 1
+    },
+    "thirdAbility": {
+      "id": "552",
+      "type": "usage",
+      "name": "GainEnlightenment",
+      "value": 1
+    },
+    "commonDeckAbility": {
+      "id": "557",
+      "type": "chaos",
+      "name": "Chaos",
+      "value": 1
+    },
+    "uncommonDeckAbility": {
+      "id": "558",
+      "type": "immunity",
+      "name": "ImmunityChaos",
+      "value": 0
+    },
+    "rareDeckAbility": {
+      "id": "559",
+      "type": "grimoireBuy",
+      "name": "BuyAnyCard",
+      "value": 7
+    }
+  }
+]
