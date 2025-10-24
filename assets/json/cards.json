@@ -43,48 +43,48 @@
       "value": 7
     }
   },
-    {
-      "id": 11001,
-      "deck": "snakes",
-      "name": "Dragon",
-      "type": "deity",
-      "influence": 5,
-      "cost": 5,
-      "firstAbility": {
-        "id": 561,
-        "type": "while",
-        "name": "ProtectOtherDivines",
-        "value": 0
-      },
-      "secondAbility": {
-        "id": 550,
-        "type": "usage",
-        "name": "Emptiness",
-        "value": 0
-      },
-      "thirdAbility": {
-        "id": 550,
-        "type": "usage",
-        "name": "Emptiness",
-        "value": 0
-      },
-      "commonDeckAbility": {
-        "id": 550,
-        "type": "usage",
-        "name": "Emptiness",
-        "value": 0
-      },
-      "uncommonDeckAbility": {
-        "id": 550,
-        "type": "usage",
-        "name": "Emptiness",
-        "value": 0
-      },
-      "rareDeckAbility": {
-        "id": 550,
-        "type": "usage",
-        "name": "Emptiness",
-        "value": 0
-      }
+  {
+    "id": 11001,
+    "deck": "snakes",
+    "name": "Dragon",
+    "type": "deity",
+    "influence": 5,
+    "cost": 5,
+    "firstAbility": {
+      "id": 561,
+      "type": "while",
+      "name": "ProtectOtherDivines",
+      "value": 0
+    },
+    "secondAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "thirdAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "commonDeckAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "uncommonDeckAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "rareDeckAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
     }
+  }
 ]
