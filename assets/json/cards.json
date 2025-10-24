@@ -86,5 +86,49 @@
       "name": "Emptiness",
       "value": 0
     }
+  },
+  {
+    "id": 11002,
+    "deck": "snakes",
+    "name": "Channeler",
+    "type": "halfdeity",
+    "influence": 3,
+    "cost": 4,
+    "firstAbility": {
+      "id": 566,
+      "type": "while",
+      "name": "IfAnyCardPlacedIntoFuture_GainInfluence",
+      "value": 1
+    },
+    "secondAbility": {
+      "id": 552,
+      "type": "usage",
+      "name": "GainInfluence",
+      "value": 1
+    },
+    "thirdAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "commonDeckAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "uncommonDeckAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "rareDeckAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    }
   }
 ]
