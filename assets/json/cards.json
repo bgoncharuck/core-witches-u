@@ -178,7 +178,7 @@
   {
     "id": 11004,
     "deck": "snakes",
-    "name": "Black Hole - Upgraded",
+    "name": "Black Hole",
     "type": "spell",
     "influence": 0,
     "cost": 4,
@@ -205,6 +205,94 @@
       "type": "usage",
       "name": "MoveDivineFromFutureToUnmanifested",
       "value": 1
+    },
+    "uncommonDeckAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "rareDeckAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    }
+  },
+  {
+    "id": 11005,
+    "deck": "snakes",
+    "name": "Dragon Blood Activation",
+    "type": "spell",
+    "influence": 0,
+    "cost": 2,
+    "firstAbility": {
+      "id": 551,
+      "type": "usage",
+      "name": "GainIntention",
+      "value": 2
+    },
+    "secondAbility": {
+      "id": 562,
+      "type": "while",
+      "name": "IfAnyCardPlacedIntoFuture_GainIntention",
+      "value": 1
+    },
+    "thirdAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "commonDeckAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "uncommonDeckAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "rareDeckAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    }
+  },
+  {
+    "id": 11006,
+    "deck": "snakes",
+    "name": "Dragon Blood Activation",
+    "type": "spell",
+    "influence": 0,
+    "cost": 2,
+    "firstAbility": {
+      "id": 551,
+      "type": "usage",
+      "name": "GainIntention",
+      "value": 2
+    },
+    "secondAbility": {
+      "id": 566,
+      "type": "while",
+      "name": "IfAnyCardPlacedIntoFuture_GainInfluence",
+      "value": 1
+    },
+    "thirdAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "commonDeckAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
     },
     "uncommonDeckAbility": {
       "id": 550,
