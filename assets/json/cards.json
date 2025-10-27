@@ -306,5 +306,93 @@
       "name": "Emptiness",
       "value": 0
     }
+  },
+  {
+    "id": 11007,
+    "deck": "snakes",
+    "name": "Kali",
+    "type": "deity",
+    "influence": 3,
+    "cost": 5,
+    "firstAbility": {
+      "id": 567,
+      "type": "while",
+      "name": "IfAnyDeityActivated_GainIntention",
+      "value": 1
+    },
+    "secondAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "thirdAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "commonDeckAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "uncommonDeckAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "rareDeckAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    }
+  },
+  {
+    "id": 11008,
+    "deck": "snakes",
+    "name": "Tiamat",
+    "type": "deity",
+    "influence": 3,
+    "cost": 6,
+    "firstAbility": {
+      "id": 562,
+      "type": "while",
+      "name": "IfAnyCardPlacedIntoFuture_GainIntention",
+      "value": 1
+    },
+    "secondAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "thirdAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "commonDeckAbility": {
+      "id": 569,
+      "type": "creation",
+      "name": "Create_Snakes:Dragon",
+      "value": 1
+    },
+    "uncommonDeckAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "rareDeckAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    }
   }
 ]
