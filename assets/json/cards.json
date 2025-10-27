@@ -130,5 +130,93 @@
       "name": "Emptiness",
       "value": 0
     }
+  },
+  {
+    "id": 11003,
+    "deck": "snakes",
+    "name": "Black Hole",
+    "type": "spell",
+    "influence": 0,
+    "cost": 4,
+    "firstAbility": {
+      "id": 552,
+      "type": "usage",
+      "name": "GainInfluence",
+      "value": 2
+    },
+    "secondAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "thirdAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "commonDeckAbility": {
+      "id": 563,
+      "type": "grimoireReplace",
+      "name": "ReplaceAnyCard",
+      "value": 5
+    },
+    "uncommonDeckAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "rareDeckAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    }
+  },
+  {
+    "id": 11004,
+    "deck": "snakes",
+    "name": "Black Hole - Upgraded",
+    "type": "spell",
+    "influence": 0,
+    "cost": 4,
+    "firstAbility": {
+      "id": 552,
+      "type": "usage",
+      "name": "GainInfluence",
+      "value": 2
+    },
+    "secondAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "thirdAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "commonDeckAbility": {
+      "id": 564,
+      "type": "usage",
+      "name": "MoveDivineFromFutureToUnmanifested",
+      "value": 1
+    },
+    "uncommonDeckAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "rareDeckAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    }
   }
 ]
