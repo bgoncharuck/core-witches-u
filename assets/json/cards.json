@@ -438,5 +438,49 @@
       "name": "Emptiness",
       "value": 0
     }
+  },
+  {
+    "id": 11010,
+    "deck": "snakes",
+    "name": "Coatlicue",
+    "type": "deity",
+    "influence": 2,
+    "cost": 5,
+    "firstAbility": {
+      "id": 551,
+      "type": "usage",
+      "name": "GainIntention",
+      "value": 1
+    },
+    "secondAbility": {
+      "id": 553,
+      "type": "usage",
+      "name": "GainEnlightenment",
+      "value": 1
+    },
+    "thirdAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "commonDeckAbility": {
+      "id": 573,
+      "type": "while",
+      "name": "IfDeityRemovedWithChaos_GainIntention_GainInfluence_GainEnlightenment",
+      "value": 2
+    },
+    "uncommonDeckAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "rareDeckAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    }
   }
 ]
