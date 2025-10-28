@@ -48,8 +48,8 @@
     "deck": "snakes",
     "name": "Dragon",
     "type": "deity",
-    "influence": 5,
-    "cost": 5,
+    "influence": 6,
+    "cost": 4,
     "firstAbility": {
       "id": 561,
       "type": "while",
@@ -137,7 +137,7 @@
     "name": "Black Hole",
     "type": "spell",
     "influence": 0,
-    "cost": 4,
+    "cost": 5,
     "firstAbility": {
       "id": 552,
       "type": "usage",
@@ -181,7 +181,7 @@
     "name": "Black Hole",
     "type": "spell",
     "influence": 0,
-    "cost": 4,
+    "cost": 5,
     "firstAbility": {
       "id": 552,
       "type": "usage",
@@ -225,7 +225,7 @@
     "name": "Dragon Blood Activation",
     "type": "spell",
     "influence": 0,
-    "cost": 2,
+    "cost": 3,
     "firstAbility": {
       "id": 551,
       "type": "usage",
@@ -269,7 +269,7 @@
     "name": "Dragon Blood Activation",
     "type": "spell",
     "influence": 0,
-    "cost": 2,
+    "cost": 3,
     "firstAbility": {
       "id": 551,
       "type": "usage",
@@ -321,10 +321,10 @@
       "value": 1
     },
     "secondAbility": {
-      "id": 550,
+      "id": 552,
       "type": "usage",
-      "name": "Emptiness",
-      "value": 0
+      "name": "GainInfluence",
+      "value": 2
     },
     "thirdAbility": {
       "id": 550,
@@ -365,10 +365,10 @@
       "value": 1
     },
     "secondAbility": {
-      "id": 550,
+      "id": 551,
       "type": "usage",
-      "name": "Emptiness",
-      "value": 0
+      "name": "GainIntention",
+      "value": 1
     },
     "thirdAbility": {
       "id": 550,
@@ -401,7 +401,7 @@
     "name": "Intuition",
     "type": "ritual",
     "influence": 0,
-    "cost": 1,
+    "cost": 2,
     "firstAbility": {
       "id": 563,
       "type": "grimoireReplace",
@@ -533,7 +533,7 @@
     "name": "Bees Swarm",
     "type": "spell",
     "influence": 0,
-    "cost": 4,
+    "cost": 5,
     "firstAbility": {
       "id": 551,
       "type": "usage",
@@ -621,7 +621,7 @@
     "name": "Create Egregore",
     "type": "spell",
     "influence": 0,
-    "cost": 7,
+    "cost": 6,
     "firstAbility": {
       "id": 552,
       "type": "usage",
@@ -644,7 +644,7 @@
       "id": 552,
       "type": "usage",
       "name": "GainInfluence",
-      "value": 2
+      "value": 3
     },
     "uncommonDeckAbility": {
       "id": 552,
