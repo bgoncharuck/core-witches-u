@@ -1230,5 +1230,489 @@
       "name": "Emptiness",
       "value": 0
     }
+  },
+  {
+    "id": 11028,
+    "deck": "blackfeathers",
+    "name": "Ritual Dagger",
+    "type": "spell",
+    "influence": 0,
+    "cost": 2,
+    "firstAbility": {
+      "id": 551,
+      "type": "usage",
+      "name": "GainIntention",
+      "value": 2
+    },
+    "secondAbility": {
+      "id": 560,
+      "type": "grimoireBuy",
+      "name": "BuyRitualCard",
+      "value": 1
+    },
+    "thirdAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "commonDeckAbility": {
+      "id": 552,
+      "type": "usage",
+      "name": "GainInfluence",
+      "value": 1
+    },
+    "uncommonDeckAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "rareDeckAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    }
+  },
+  {
+    "id": 11029,
+    "deck": "blackfeathers",
+    "name": "Enchantment",
+    "type": "spell",
+    "influence": 0,
+    "cost": 4,
+    "firstAbility": {
+      "id": 552,
+      "type": "usage",
+      "name": "GainInfluence",
+      "value": 4
+    },
+    "secondAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "thirdAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "commonDeckAbility": {
+      "id": 551,
+      "type": "usage",
+      "name": "GainIntention",
+      "value": 1
+    },
+    "uncommonDeckAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "rareDeckAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    }
+  },
+  {
+    "id": 11030,
+    "deck": "blackfeathers",
+    "name": "Crow Familiar",
+    "type": "halfdeity",
+    "influence": 6,
+    "cost": 6,
+    "firstAbility": {
+      "id": 561,
+      "type": "while",
+      "name": "ProtectOtherDivines",
+      "value": 0
+    },
+    "secondAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "thirdAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "commonDeckAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "uncommonDeckAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "rareDeckAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    }
+  },
+  {
+    "id": 11031,
+    "deck": "blackfeathers",
+    "name": "Owl Gaze",
+    "type": "spell",
+    "influence": 0,
+    "cost": 3,
+    "firstAbility": {
+      "id": 554,
+      "type": "opponentUsage",
+      "name": "RemoveOpponentIntention",
+      "value": 2
+    },
+    "secondAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "thirdAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "commonDeckAbility": {
+      "id": 552,
+      "type": "usage",
+      "name": "GainInfluence",
+      "value": 3
+    },
+    "uncommonDeckAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "rareDeckAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    }
+  },
+  {
+    "id": 11032,
+    "deck": "blackfeathers",
+    "name": "Owl Gaze",
+    "type": "spell",
+    "influence": 0,
+    "cost": 3,
+    "firstAbility": {
+      "id": 551,
+      "type": "usage",
+      "name": "GainIntention",
+      "value": 2
+    },
+    "secondAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "thirdAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "commonDeckAbility": {
+      "id": 552,
+      "type": "usage",
+      "name": "GainInfluence",
+      "value": 3
+    },
+    "uncommonDeckAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "rareDeckAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    }
+  },
+  {
+    "id": 11033,
+    "deck": "blackfeathers",
+    "name": "Meyrahel",
+    "type": "deity",
+    "influence": 6,
+    "cost": 7,
+    "firstAbility": {
+      "id": 551,
+      "type": "usage",
+      "name": "GainIntention",
+      "value": 1
+    },
+    "secondAbility": {
+      "id": 558,
+      "type": "immunity",
+      "name": "ImmunityChaos",
+      "value": 0
+    },
+    "thirdAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "commonDeckAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "uncommonDeckAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "rareDeckAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    }
+  },
+  {
+    "id": 11034,
+    "deck": "blackfeathers",
+    "name": "as Above so Bellow",
+    "type": "spell",
+    "influence": 0,
+    "cost": 6,
+    "firstAbility": {
+      "id": 551,
+      "type": "usage",
+      "name": "GainIntention",
+      "value": 5
+    },
+    "secondAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "thirdAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "commonDeckAbility": {
+      "id": 551,
+      "type": "usage",
+      "name": "GainIntention",
+      "value": 1
+    },
+    "uncommonDeckAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "rareDeckAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    }
+  },
+  {
+    "id": 11035,
+    "deck": "blackfeathers",
+    "name": "as Above so Bellow",
+    "type": "spell",
+    "influence": 0,
+    "cost": 6,
+    "firstAbility": {
+      "id": 552,
+      "type": "usage",
+      "name": "GainInfluence",
+      "value": 5
+    },
+    "secondAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "thirdAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "commonDeckAbility": {
+      "id": 551,
+      "type": "usage",
+      "name": "GainIntention",
+      "value": 1
+    },
+    "uncommonDeckAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "rareDeckAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    }
+  },
+  {
+    "id": 11036,
+    "deck": "blackfeathers",
+    "name": "Connect with One",
+    "type": "spell",
+    "influence": 0,
+    "cost": 8,
+    "firstAbility": {
+      "id": 552,
+      "type": "usage",
+      "name": "GainInfluence",
+      "value": 6
+    },
+    "secondAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "thirdAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "commonDeckAbility": {
+      "id": 557,
+      "type": "chaos",
+      "name": "Chaos",
+      "value": 1
+    },
+    "uncommonDeckAbility": {
+      "id": 576,
+      "type": "usage",
+      "name": "MoveAnyCard_Manifest",
+      "value": 1
+    },
+    "rareDeckAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    }
+  },
+  {
+    "id": 11037,
+    "deck": "blackfeathers",
+    "name": "Connect with One",
+    "type": "spell",
+    "influence": 0,
+    "cost": 8,
+    "firstAbility": {
+      "id": 551,
+      "type": "usage",
+      "name": "GainIntention",
+      "value": 6
+    },
+    "secondAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "thirdAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "commonDeckAbility": {
+      "id": 557,
+      "type": "chaos",
+      "name": "Chaos",
+      "value": 1
+    },
+    "uncommonDeckAbility": {
+      "id": 576,
+      "type": "usage",
+      "name": "MoveAnyCard_Manifest",
+      "value": 1
+    },
+    "rareDeckAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    }
+  },
+  {
+    "id": 11037,
+    "deck": "blackfeathers",
+    "name": "Connect with One (Upgrade)",
+    "type": "spell",
+    "influence": 0,
+    "cost": 8,
+    "firstAbility": {
+      "id": 551,
+      "type": "usage",
+      "name": "GainIntention",
+      "value": 6
+    },
+    "secondAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "thirdAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "commonDeckAbility": {
+      "id": 557,
+      "type": "chaos",
+      "name": "Chaos",
+      "value": 1
+    },
+    "uncommonDeckAbility": {
+      "id": 576,
+      "type": "usage",
+      "name": "MoveAnyCard_Manifest",
+      "value": 1
+    },
+    "rareDeckAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    }
   }
 ]
