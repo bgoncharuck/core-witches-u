@@ -324,7 +324,7 @@
       "id": 552,
       "type": "usage",
       "name": "GainInfluence",
-      "value": 2
+      "value": 1
     },
     "thirdAbility": {
       "id": 550,
@@ -357,7 +357,7 @@
     "name": "Tiamat",
     "type": "deity",
     "influence": 3,
-    "cost": 6,
+    "cost": 7,
     "firstAbility": {
       "id": 562,
       "type": "while",
