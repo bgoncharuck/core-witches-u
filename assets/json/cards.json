@@ -394,5 +394,49 @@
       "name": "Emptiness",
       "value": 0
     }
+  },
+  {
+    "id": 11009,
+    "deck": "snakes",
+    "name": "Intuition",
+    "type": "ritual",
+    "influence": 0,
+    "cost": 1,
+    "firstAbility": {
+      "id": 563,
+      "type": "grimoireReplace",
+      "name": "ReplaceAnyCard",
+      "value": 1
+    },
+    "secondAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "thirdAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "commonDeckAbility": {
+      "id": 551,
+      "type": "usage",
+      "name": "GainIntention",
+      "value": 1
+    },
+    "uncommonDeckAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "rareDeckAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    }
   }
 ]
