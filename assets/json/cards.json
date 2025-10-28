@@ -834,5 +834,401 @@
       "name": "Emptiness",
       "value": 0
     }
+  },
+  {
+    "id": 11019,
+    "deck": "smoke",
+    "name": "Breathing",
+    "type": "spell",
+    "influence": 0,
+    "cost": 3,
+    "firstAbility": {
+      "id": 574,
+      "type": "usage",
+      "name": "MoveAnyCardFromUnmanifestedToFuture",
+      "value": 5
+    },
+    "secondAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "thirdAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "commonDeckAbility": {
+      "id": 551,
+      "type": "usage",
+      "name": "GainIntention",
+      "value": 3
+    },
+    "uncommonDeckAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "rareDeckAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    }
+  },
+  {
+    "id": 11020,
+    "deck": "smoke",
+    "name": "Lucid Dreaming",
+    "type": "spell",
+    "influence": 0,
+    "cost": 2,
+    "firstAbility": {
+      "id": 552,
+      "type": "usage",
+      "name": "GainInfluence",
+      "value": 2
+    },
+    "secondAbility": {
+      "id": 574,
+      "type": "usage",
+      "name": "MoveAnyCardFromUnmanifestedToFuture",
+      "value": 1
+    },
+    "thirdAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "commonDeckAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "uncommonDeckAbility": {
+      "id": 575,
+      "type": "usage",
+      "name": "MoveAnyCardFromFutureToManifested",
+      "value": 1
+    },
+    "rareDeckAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    }
+  },
+  {
+    "id": 11021,
+    "deck": "smoke",
+    "name": "Akashic Records",
+    "type": "spell",
+    "influence": 0,
+    "cost": 6,
+    "firstAbility": {
+      "id": 574,
+      "type": "usage",
+      "name": "MoveAnyCardFromUnmanifestedToFuture",
+      "value": 5
+    },
+    "secondAbility": {
+      "id": 576,
+      "type": "usage",
+      "name": "MoveAnyCard_Manifest",
+      "value": 1
+    },
+    "thirdAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "commonDeckAbility": {
+      "id": 551,
+      "type": "usage",
+      "name": "GainIntention",
+      "value": 3
+    },
+    "uncommonDeckAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "rareDeckAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    }
+  },
+  {
+    "id": 11022,
+    "deck": "smoke",
+    "name": "Akashic Records",
+    "type": "spell",
+    "influence": 0,
+    "cost": 6,
+    "firstAbility": {
+      "id": 574,
+      "type": "usage",
+      "name": "MoveAnyCardFromUnmanifestedToFuture",
+      "value": 5
+    },
+    "secondAbility": {
+      "id": 576,
+      "type": "usage",
+      "name": "MoveAnyCard_Manifest",
+      "value": 1
+    },
+    "thirdAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "commonDeckAbility": {
+      "id": 552,
+      "type": "usage",
+      "name": "GainInfluence",
+      "value": 3
+    },
+    "uncommonDeckAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "rareDeckAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    }
+  },
+  {
+    "id": 11023,
+    "deck": "smoke",
+    "name": "Tarrot Deck",
+    "type": "ritual",
+    "influence": 0,
+    "cost": 3,
+    "firstAbility": {
+      "id": 574,
+      "type": "usage",
+      "name": "MoveAnyCardFromUnmanifestedToFuture",
+      "value": 3
+    },
+    "secondAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "thirdAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "commonDeckAbility": {
+      "id": 551,
+      "type": "usage",
+      "name": "GainIntention",
+      "value": 3
+    },
+    "uncommonDeckAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "rareDeckAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    }
+  },
+  {
+    "id": 11024,
+    "deck": "smoke",
+    "name": "Mara",
+    "type": "deity",
+    "influence": 3,
+    "cost": 6,
+    "firstAbility": {
+      "id": 551,
+      "type": "usage",
+      "name": "GainIntention",
+      "value": 1
+    },
+    "secondAbility": {
+      "id": 574,
+      "type": "usage",
+      "name": "MoveAnyCardFromUnmanifestedToFuture",
+      "value": 3
+    },
+    "thirdAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "commonDeckAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "uncommonDeckAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "rareDeckAbility": {
+      "id": 577,
+      "type": "destroy",
+      "name": "DestroyAnyCard",
+      "value": 1
+    }
+  },
+  {
+    "id": 11025,
+    "deck": "smoke",
+    "name": "Materialize New Line",
+    "type": "spell",
+    "influence": 0,
+    "cost": 5,
+    "firstAbility": {
+      "id": 551,
+      "type": "usage",
+      "name": "GainIntention",
+      "value": 2
+    },
+    "secondAbility": {
+      "id": 574,
+      "type": "usage",
+      "name": "MoveAnyCardFromUnmanifestedToFuture",
+      "value": 4
+    },
+    "thirdAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "commonDeckAbility": {
+      "id": 552,
+      "type": "usage",
+      "name": "GainInfluence",
+      "value": 3
+    },
+    "uncommonDeckAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "rareDeckAbility": {
+      "id": 578,
+      "type": "opponentCreation",
+      "name": "CreateOpponent_Base:Emptiness",
+      "value": 1
+    }
+  },
+  {
+    "id": 11026,
+    "deck": "smoke",
+    "name": "Change Destiny Lines",
+    "type": "spell",
+    "influence": 0,
+    "cost": 4,
+    "firstAbility": {
+      "id": 563,
+      "type": "grimoireReplace",
+      "name": "ReplaceAnyCard",
+      "value": 2
+    },
+    "secondAbility": {
+      "id": 551,
+      "type": "usage",
+      "name": "GainIntention",
+      "value": 3
+    },
+    "thirdAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "commonDeckAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "uncommonDeckAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "rareDeckAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    }
+  },
+  {
+    "id": 11027,
+    "deck": "smoke",
+    "name": "Erase",
+    "type": "ritual",
+    "influence": 0,
+    "cost": 4,
+    "firstAbility": {
+      "id": 577,
+      "type": "destroy",
+      "name": "DestroyAnyCard",
+      "value": 1
+    },
+    "secondAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "thirdAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "commonDeckAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "uncommonDeckAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "rareDeckAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    }
   }
 ]
