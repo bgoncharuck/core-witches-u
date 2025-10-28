@@ -1325,7 +1325,7 @@
     "name": "Crow Familiar",
     "type": "halfdeity",
     "influence": 6,
-    "cost": 6,
+    "cost": 5,
     "firstAbility": {
       "id": 561,
       "type": "while",
@@ -1457,7 +1457,7 @@
     "name": "Meyrahel",
     "type": "deity",
     "influence": 6,
-    "cost": 7,
+    "cost": 6,
     "firstAbility": {
       "id": 551,
       "type": "usage",
@@ -1501,7 +1501,7 @@
     "name": "as Above so Bellow",
     "type": "spell",
     "influence": 0,
-    "cost": 6,
+    "cost": 5,
     "firstAbility": {
       "id": 551,
       "type": "usage",
@@ -1545,7 +1545,7 @@
     "name": "as Above so Bellow",
     "type": "spell",
     "influence": 0,
-    "cost": 6,
+    "cost": 5,
     "firstAbility": {
       "id": 552,
       "type": "usage",
@@ -1589,7 +1589,7 @@
     "name": "Connect with One",
     "type": "spell",
     "influence": 0,
-    "cost": 8,
+    "cost": 7,
     "firstAbility": {
       "id": 552,
       "type": "usage",
@@ -1633,7 +1633,7 @@
     "name": "Connect with One",
     "type": "spell",
     "influence": 0,
-    "cost": 8,
+    "cost": 7,
     "firstAbility": {
       "id": 551,
       "type": "usage",
@@ -1676,7 +1676,7 @@
     "deck": "blackfeathers",
     "name": "Uncle Sam",
     "type": "deity",
-    "influence": 9,
+    "influence": 8,
     "cost": 9,
     "firstAbility": {
       "id": 561,
