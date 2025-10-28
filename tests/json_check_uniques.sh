@@ -24,5 +24,6 @@ find "$ASSETS_DIR" -type f -name "*.json" | while read file; do
     echo "$types"
   fi
 
-  echo ""
 done
+
+echo "---------------------------"
