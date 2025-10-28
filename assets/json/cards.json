@@ -526,5 +526,313 @@
       "name": "MoveAnyCard_Manifest",
       "value": 1
     }
+  },
+  {
+    "id": 11012,
+    "deck": "goldenlines",
+    "name": "Bees Swarm",
+    "type": "spell",
+    "influence": 0,
+    "cost": 4,
+    "firstAbility": {
+      "id": 551,
+      "type": "usage",
+      "name": "GainIntention",
+      "value": 2
+    },
+    "secondAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "thirdAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "commonDeckAbility": {
+      "id": 576,
+      "type": "usage",
+      "name": "MoveAnyCard_Manifest",
+      "value": 1
+    },
+    "uncommonDeckAbility": {
+      "id": 552,
+      "type": "usage",
+      "name": "GainInfluence",
+      "value": 1
+    },
+    "rareDeckAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    }
+  },
+  {
+    "id": 11013,
+    "deck": "goldenlines",
+    "name": "Thunderstorm",
+    "type": "spell",
+    "influence": 0,
+    "cost": 4,
+    "firstAbility": {
+      "id": 576,
+      "type": "usage",
+      "name": "MoveAnyCard_Manifest",
+      "value": 1
+    },
+    "secondAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "thirdAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "commonDeckAbility": {
+      "id": 551,
+      "type": "usage",
+      "name": "GainIntention",
+      "value": 2
+    },
+    "uncommonDeckAbility": {
+      "id": 552,
+      "type": "usage",
+      "name": "GainInfluence",
+      "value": 2
+    },
+    "rareDeckAbility": {
+      "id": 576,
+      "type": "usage",
+      "name": "MoveAnyCard_Manifest",
+      "value": 1
+    }
+  },
+  {
+    "id": 11014,
+    "deck": "goldenlines",
+    "name": "Create Egregore",
+    "type": "spell",
+    "influence": 0,
+    "cost": 7,
+    "firstAbility": {
+      "id": 552,
+      "type": "usage",
+      "name": "GainInfluence",
+      "value": 2
+    },
+    "secondAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "thirdAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "commonDeckAbility": {
+      "id": 552,
+      "type": "usage",
+      "name": "GainInfluence",
+      "value": 2
+    },
+    "uncommonDeckAbility": {
+      "id": 552,
+      "type": "usage",
+      "name": "GainInfluence",
+      "value": 2
+    },
+    "rareDeckAbility": {
+      "id": 576,
+      "type": "usage",
+      "name": "MoveAnyCard_Manifest",
+      "value": 1
+    }
+  },
+  {
+    "id": 11015,
+    "deck": "goldenlines",
+    "name": "Hypnotize",
+    "type": "ritual",
+    "influence": 0,
+    "cost": 3,
+    "firstAbility": {
+      "id": 579,
+      "type": "opponentUsage",
+      "name": "OpponentMoveAnyCardFromManifestedToFuture",
+      "value": 1
+    },
+    "secondAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "thirdAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "commonDeckAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "uncommonDeckAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "rareDeckAbility": {
+      "id": 576,
+      "type": "usage",
+      "name": "MoveAnyCard_Manifest",
+      "value": 1
+    }
+  },
+  {
+    "id": 11016,
+    "deck": "goldenlines",
+    "name": "Yellow Eyed Lady",
+    "type": "deity",
+    "influence": 3,
+    "cost": 6,
+    "firstAbility": {
+      "id": 551,
+      "type": "usage",
+      "name": "GainIntention",
+      "value": 1
+    },
+    "secondAbility": {
+      "id": 558,
+      "type": "immunity",
+      "name": "ImmunityChaos",
+      "value": 0
+    },
+    "thirdAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "commonDeckAbility": {
+      "id": 551,
+      "type": "usage",
+      "name": "GainIntention",
+      "value": 2
+    },
+    "uncommonDeckAbility": {
+      "id": 552,
+      "type": "usage",
+      "name": "GainInfluence",
+      "value": 2
+    },
+    "rareDeckAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    }
+  },
+  {
+    "id": 11017,
+    "deck": "goldenlines",
+    "name": "Metamorphosis",
+    "type": "spell",
+    "influence": 0,
+    "cost": 5,
+    "firstAbility": {
+      "id": 551,
+      "type": "usage",
+      "name": "GainIntention",
+      "value": 3
+    },
+    "secondAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "thirdAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "commonDeckAbility": {
+      "id": 576,
+      "type": "usage",
+      "name": "MoveAnyCard_Manifest",
+      "value": 1
+    },
+    "uncommonDeckAbility": {
+      "id": 552,
+      "type": "usage",
+      "name": "GainInfluence",
+      "value": 2
+    },
+    "rareDeckAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    }
+  },
+  {
+    "id": 11018,
+    "deck": "goldenlines",
+    "name": "Grand Manifestation",
+    "type": "spell",
+    "influence": 0,
+    "cost": 6,
+    "firstAbility": {
+      "id": 575,
+      "type": "usage",
+      "name": "MoveAnyCardFromFutureToManifested",
+      "value": 1
+    },
+    "secondAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "thirdAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    },
+    "commonDeckAbility": {
+      "id": 576,
+      "type": "usage",
+      "name": "MoveAnyCard_Manifest",
+      "value": 1
+    },
+    "uncommonDeckAbility": {
+      "id": 576,
+      "type": "usage",
+      "name": "MoveAnyCard_Manifest",
+      "value": 1
+    },
+    "rareDeckAbility": {
+      "id": 550,
+      "type": "usage",
+      "name": "Emptiness",
+      "value": 0
+    }
   }
 ]
