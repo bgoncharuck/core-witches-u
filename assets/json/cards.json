@@ -1589,7 +1589,7 @@
     "name": "Connect with One",
     "type": "spell",
     "influence": 0,
-    "cost": 7,
+    "cost": 8,
     "firstAbility": {
       "id": 552,
       "type": "usage",
@@ -1633,7 +1633,7 @@
     "name": "Connect with One",
     "type": "spell",
     "influence": 0,
-    "cost": 7,
+    "cost": 8,
     "firstAbility": {
       "id": 551,
       "type": "usage",
@@ -1676,8 +1676,8 @@
     "deck": "blackfeathers",
     "name": "Uncle Sam",
     "type": "deity",
-    "influence": 8,
-    "cost": 9,
+    "influence": 9,
+    "cost": 8,
     "firstAbility": {
       "id": 561,
       "type": "while",
