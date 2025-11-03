@@ -13,7 +13,7 @@ class Ability {
       id: json['id'] as int,
       type: json['type'] as String,
       name: json['name'] as String,
-      value: json['value'] as int? ?? 0,
+      value: json['value'] is int ? json['value'] as int : 0,
     );
   }
 
